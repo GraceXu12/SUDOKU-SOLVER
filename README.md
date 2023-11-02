@@ -7,4 +7,3 @@ The objective is to ensure that each row, column, and 3x3 subgrid contains every
 I have thus developed a code that implements a recursive backtracking algorithm to solve Sudoku puzzles of various difficulty levels.
 In backtracking algorithms, the approach involves constructing a solution incrementally. If it becomes evident at a certain point 
 that the current path cannot lead to a solution, you backtrack to the previous step and explore an alternative route
-Implemented with recursive sudoku backtracking algorithm, The Sudoku Solver solves sudoku of all levels. 
