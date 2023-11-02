@@ -1,4 +1,4 @@
-# friendly-octo-sniffle
+
 Sudoku solver
 
 A Sudoku puzzle is a grid-based numerical challenge that involves filling a 9x9 grid with digits from 1 to 9. 
